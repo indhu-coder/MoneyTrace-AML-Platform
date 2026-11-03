@@ -1,0 +1,101 @@
+customer_id,customer_name,occupation,risk_category,city,customer_since
+CUST0001,Aryan Maharaj,Financial risk analyst,LOW,Kolhapur,2018-07-31
+CUST0002,Pahal Balay,Air traffic controller,LOW,Bellary,2020-10-17
+CUST0003,Rushil Saini,English as a second language teacher,LOW,Giridih,2021-07-27
+CUST0004,Nathaniel Sami,"Librarian, public",LOW,Bhatpara,2020-07-01
+CUST0005,Harsh Chanda,Museum/gallery conservator,MEDIUM,Secunderabad,2022-09-09
+CUST0006,Caleb Sharaf,Software engineer,LOW,Burhanpur,2018-03-06
+CUST0007,Janaki Handa,Building control surveyor,MEDIUM,Ambattur,2021-10-05
+CUST0008,Viraj Chaudhuri,Museum/gallery conservator,LOW,Malda,2023-01-16
+CUST0009,Kamala Pant,"Engineer, manufacturing systems",LOW,Madurai,2019-10-01
+CUST0010,Nihal Shere,Museum education officer,LOW,Proddatur,2020-07-28
+CUST0011,Daksh Karnik,Ambulance person,LOW,Rewa,2021-05-23
+CUST0012,Siddharth Murty,"Engineer, petroleum",LOW,Tenali,2024-08-23
+CUST0013,Alka Dewan,Fine artist,LOW,Bhimavaram,2024-02-16
+CUST0014,Janaki Kanda,Corporate investment banker,LOW,Mysore,2017-08-21
+CUST0015,Michael Dutta,"Pharmacist, hospital",LOW,Kharagpur,2023-05-01
+CUST0016,Zayan Apte,Colour technologist,LOW,Mau,2018-09-26
+CUST0017,Radhika Dugar,Professor Emeritus,LOW,Firozabad,2025-05-09
+CUST0018,Yashica Cherian,Hydrogeologist,LOW,Jamnagar,2023-03-14
+CUST0019,Aadi Naik,Records manager,MEDIUM,Gorakhpur,2023-01-05
+CUST0020,Wriddhish Bhardwaj,Financial adviser,LOW,Guwahati,2025-02-07
+CUST0021,Jeremiah Dave,Public relations officer,MEDIUM,Bilaspur,2025-10-24
+CUST0022,Siddharth Zacharia,"Engineer, control and instrumentation",LOW,Silchar,2023-03-11
+CUST0023,Zansi Seth,Community arts worker,LOW,Kamarhati,2017-12-04
+CUST0024,Ansh Karpe,Theatre stage manager,LOW,Chennai,2018-01-17
+CUST0025,Veer Bir,Ambulance person,HIGH,Madurai,2025-08-01
+CUST0026,Arya Sunder,"Engineer, site",LOW,Aurangabad,2026-08-22
+CUST0027,Xavier Solanki,Optometrist,LOW,Bareilly,2018-06-27
+CUST0028,Irya Sampath,Paediatric nurse,LOW,Meerut,2018-07-06
+CUST0029,Neha Nori,Clinical embryologist,MEDIUM,Nellore,2020-01-27
+CUST0030,Logan Sami,"Education officer, museum",LOW,Surendranagar Dudhrej,2021-02-01
+CUST0031,Saanvi Chaudhari,Arts administrator,MEDIUM,Tiruchirappalli,2020-11-09
+CUST0032,Niharika Sunder,Quarry manager,MEDIUM,Rewa,2017-11-01
+CUST0033,Ladli Agate,Newspaper journalist,LOW,Malda,2021-09-09
+CUST0034,Vidhi Dubey,Energy manager,HIGH,Bellary,2017-10-31
+CUST0035,Dipta Bhandari,Arts administrator,LOW,Ambala,2025-11-15
+CUST0036,Dakshesh Trivedi,Catering manager,LOW,Coimbatore,2017-12-29
+CUST0037,Netra Dar,"Teacher, early years/pre",MEDIUM,Adoni,2017-07-06
+CUST0038,Oni Virk,Interpreter,LOW,Kurnool,2022-03-08
+CUST0039,Alka Randhawa,"Conservator, museum/gallery",MEDIUM,Berhampore,2022-03-20
+CUST0040,Aditya Shanker,Wellsite geologist,LOW,Srinagar,2025-12-25
+CUST0041,Yashawini Lanka,Consulting civil engineer,MEDIUM,Coimbatore,2020-12-28
+CUST0042,Bhavani Dugar,Primary school teacher,LOW,Pudukkottai,2025-11-01
+CUST0043,Chandani Chawla,Contractor,LOW,Bhiwandi,2018-08-29
+CUST0044,Anita Manda,Trade union research officer,LOW,Tiruvottiyur,2020-04-20
+CUST0045,Yashasvi Suresh,Food technologist,LOW,Tiruchirappalli,2024-01-17
+CUST0046,Chaitanya Aggarwal,"Lecturer, further education",LOW,Firozabad,2019-08-03
+CUST0047,Prisha Andra,Clinical research associate,LOW,Jalgaon,2026-02-13
+CUST0048,Kala Divan,Planning and development surveyor,LOW,Kalyan-Dombivli,2022-01-30
+CUST0049,Balveer Parmar,"Engineer, materials",LOW,Kota,2022-11-08
+CUST0050,Mohammed Khalsa,"Designer, textile",LOW,Haridwar,2017-04-05
+CUST0051,Gaurangi Sabharwal,Fish farm manager,LOW,Kozhikode,2018-09-04
+CUST0052,Balvan Singhal,Environmental education officer,LOW,Jaunpur,2022-10-14
+CUST0053,Vedant Kapoor,Aeronautical engineer,LOW,Silchar,2022-06-03
+CUST0054,Ekaraj Mallick,Make,MEDIUM,Jorhat,2022-06-21
+CUST0055,Jack Lal,"Editor, magazine features",LOW,Agra,2018-09-06
+CUST0056,Hemani Murthy,Press photographer,LOW,Kharagpur,2026-08-24
+CUST0057,Aachal Basu,Press photographer,LOW,Saharsa,2025-12-30
+CUST0058,Januja Sankar,Building control surveyor,MEDIUM,Satara,2018-12-16
+CUST0059,Yashica More,Osteopath,LOW,Sambhal,2021-11-13
+CUST0060,Rehaan Salvi,Museum education officer,LOW,Tadepalligudem,2026-07-09
+CUST0061,Nidra Acharya,Industrial buyer,HIGH,Bhagalpur,2024-02-25
+CUST0062,Udyati Sathe,Private music teacher,LOW,Sasaram,2024-11-20
+CUST0063,Frado Mander,"Scientist, biomedical",LOW,Tiruchirappalli,2020-10-31
+CUST0064,Umang Issac,Data processing manager,LOW,Ranchi,2021-01-01
+CUST0065,Elijah Shah,Patent examiner,MEDIUM,Yamunanagar,2025-03-31
+CUST0066,Yagnesh Divan,"Accountant, chartered public finance",MEDIUM,Khandwa,2020-07-23
+CUST0067,Zarna Shetty,Arts administrator,LOW,Bhilai,2024-08-08
+CUST0068,Ucchal Wali,"Surveyor, land/geomatics",LOW,Mango,2025-06-04
+CUST0069,Sanaya Dutt,Public relations officer,LOW,Rampur,2021-01-16
+CUST0070,Vedhika Khare,Haematologist,LOW,Solapur,2021-09-12
+CUST0071,Anita Nayak,IT consultant,LOW,Durgapur,2019-05-28
+CUST0072,Leela Dua,"Engineer, site",MEDIUM,Vijayanagaram,2023-10-09
+CUST0073,Unnati Sagar,Biomedical engineer,MEDIUM,Bidar,2023-06-19
+CUST0074,Lajita Sood,Accounting technician,LOW,Bihar Sharif,2023-06-22
+CUST0075,Thomas Sura,English as a foreign language teacher,LOW,Junagadh,2025-02-05
+CUST0076,Lopa Nayar,Ophthalmologist,LOW,Bhind,2019-01-04
+CUST0077,Meera Bala,Charity officer,MEDIUM,Bhavnagar,2024-09-09
+CUST0078,Chandresh Lad,Museum education officer,LOW,Rajpur Sonarpur,2024-07-28
+CUST0079,Geetika Raghavan,Health physicist,LOW,Nizamabad,2018-03-25
+CUST0080,Anirudh Zacharia,Associate Professor,LOW,Rajahmundry,2018-01-02
+CUST0081,Azaan Kota,"Engineer, communications",LOW,Jamnagar,2020-11-23
+CUST0082,Urvashi Contractor,"Surveyor, rural practice",LOW,Kirari Suleman Nagar,2021-03-13
+CUST0083,Oliver Contractor,"Development worker, community",LOW,Moradabad,2026-09-06
+CUST0084,Devika Prashad,Occupational psychologist,MEDIUM,Aurangabad,2020-12-20
+CUST0085,Charvi Dara,Systems developer,LOW,Sri Ganganagar,2025-11-25
+CUST0086,Kamala Biswas,Risk manager,LOW,Ahmedabad,2023-12-26
+CUST0087,Hitesh Sant,Medical illustrator,HIGH,Jamnagar,2024-03-31
+CUST0088,Anamika Yohannan,Radio broadcast assistant,LOW,Junagadh,2021-05-27
+CUST0089,Yatan Chadha,Health promotion specialist,LOW,Latur,2024-09-28
+CUST0090,Gayathri Balakrishnan,"Research officer, trade union",LOW,South Dumdum,2025-02-17
+CUST0091,Isha Kuruvilla,"Librarian, public",LOW,Kavali,2021-07-15
+CUST0092,Zansi Halder,Chartered certified accountant,LOW,Vellore,2025-02-23
+CUST0093,Vamakshi Swaminathan,Product/process development scientist,MEDIUM,Tiruchirappalli,2021-11-04
+CUST0094,Nidhi Kohli,Information officer,LOW,Bhalswa Jahangir Pur,2026-04-03
+CUST0095,Pavani Narayanan,Management consultant,LOW,Gopalpur,2022-01-20
+CUST0096,Vihaan Dara,"Engineer, automotive",LOW,Jamshedpur,2025-12-14
+CUST0097,Rehaan Kalita,Radio broadcast assistant,HIGH,Giridih,2025-10-05
+CUST0098,Harish Hari,Housing manager/officer,LOW,Karimnagar,2019-11-22
+CUST0099,Akshay Walla,Computer games developer,HIGH,Ranchi,2017-10-06
+CUST0100,Jonathan Swaminathan,"Civil engineer, contracting",MEDIUM,Chapra,2021-09-03
