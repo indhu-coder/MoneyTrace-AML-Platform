@@ -155,3 +155,13 @@ ALT00007 AML_RULE_001    ACC0107     HIGH High-value outgoing transaction detect
 ALT00008 AML_RULE_001    ACC0045     HIGH High-value outgoing transaction detected
 ALT00009 AML_RULE_001    ACC0045     HIGH High-value outgoing transaction detected
 ALT00010 AML_RULE_001    ACC0126     HIGH High-value outgoing transaction detected
+
+
+A disposition is the investigator's recorded conclusion or action after reviewing an alert.
+
+Disposition	Meaning
+
+FALSE_POSITIVE	            Review found no concern requiring further action
+ESCALATED	                Referred to a higher-level investigator or team
+SUSPICIOUS_ACTIVITY	        Concerns remain and the matter is referred for appropriate further   action
+INSUFFICIENT_INFORMATION	Not enough information to reach a conclusion
