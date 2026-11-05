@@ -144,14 +144,17 @@ ACC0147    1
 Name: count, dtype: int64
 
 4. ALERT DETAILS
-alert_id      rule_id account_id severity                              description
-ALT00001 AML_RULE_001    ACC0037     HIGH High-value outgoing transaction detected
-ALT00002 AML_RULE_001    ACC0085     HIGH High-value outgoing transaction detected
-ALT00003 AML_RULE_001    ACC0067     HIGH High-value outgoing transaction detected
-ALT00004 AML_RULE_001    ACC0150     HIGH High-value outgoing transaction detected
-ALT00005 AML_RULE_001    ACC0147     HIGH High-value outgoing transaction detected
-ALT00006 AML_RULE_001    ACC0107     HIGH High-value outgoing transaction detected
-ALT00007 AML_RULE_001    ACC0107     HIGH High-value outgoing transaction detected
-ALT00008 AML_RULE_001    ACC0045     HIGH High-value outgoing transaction detected
-ALT00009 AML_RULE_001    ACC0045     HIGH High-value outgoing transaction detected
-ALT00010 AML_RULE_001    ACC0126     HIGH High-value outgoing transaction detected
+
+
+        alert_id      rule_id account_id severity                              description
+        
+        ALT00001 AML_RULE_001    ACC0037     HIGH High-value outgoing transaction detected
+        ALT00002 AML_RULE_001    ACC0085     HIGH High-value outgoing transaction detected
+        ALT00003 AML_RULE_001    ACC0067     HIGH High-value outgoing transaction detected
+        ALT00004 AML_RULE_001    ACC0150     HIGH High-value outgoing transaction detected
+        ALT00005 AML_RULE_001    ACC0147     HIGH High-value outgoing transaction detected
+        ALT00006 AML_RULE_001    ACC0107     HIGH High-value outgoing transaction detected
+        ALT00007 AML_RULE_001    ACC0107     HIGH High-value outgoing transaction detected
+        ALT00008 AML_RULE_001    ACC0045     HIGH High-value outgoing transaction detected
+        ALT00009 AML_RULE_001    ACC0045     HIGH High-value outgoing transaction detected
+        ALT00010 AML_RULE_001    ACC0126     HIGH High-value outgoing transaction detected
